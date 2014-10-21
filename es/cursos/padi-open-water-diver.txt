@@ -2,7 +2,7 @@
 Title: Curso de buceo  - Open Diver Water Diver
 Subtitle:
 Author: Andrew Bailey
-Keywords: Buceo, Dive and Green, PADI
+Keywords: Buceo, Dive and Green, PADI, cursos
 Summary:Somos un centro de buceo con amplia experiencia y certificación PADI, donde personas interesadas en disfrutar del mar, desde curiosos hasta buzos expertos, encuentran capacitación, orientación y asesoría, con estricto respeto a las más exigentes normas de seguridad
 Date:2014
 Language:es
