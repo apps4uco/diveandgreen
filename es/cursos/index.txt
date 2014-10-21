@@ -1,0 +1,22 @@
+<!--
+Title: Cursos de Buceo PADI
+Subtitle:
+Author: Andrew Bailey
+Keywords: Buceo, Dive and Green, PADI
+Summary:Somos un centro de buceo con amplia experiencia y certificación PADI, donde personas interesadas en disfrutar del mar, desde curiosos hasta buzos expertos, encuentran capacitación, orientación y asesoría, con estricto respeto a las más exigentes normas de seguridad
+Date:2014
+Language:es
+Copyright:2014 Dive and Green
+-->
+
+* Experiencias de buceo
+	* [Discover Scuba Diving](/es/cursos/discover-scuba-diving.html)
+* Cursos Básicos de Buceo
+	* [Open Water Diver](/es/cursos/padi-open-water-diver.html)
+	* [Scuba Review](/es/cursos/padi-scuba-review.html)
+	* [Scuba Diver](/es/cursos/padi-scuba-diver.html)
+* Cursos Avanzados de Buceo
+	* [Advanced Open Water Diver](/es/cursos/padi-advanced-open-water-diver.html)
+	* [Rescue Diver](/es/cursos/padi-rescue-diver.html)
+	* [Dive Master](/es/cursos/padi-dive-master.html)
+	* [Especialidades](/es/cursos/padi-especialidades.html)

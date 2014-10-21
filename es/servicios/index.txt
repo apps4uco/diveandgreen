@@ -1,0 +1,18 @@
+<!--
+Title: Servicios
+Subtitle:
+Author: Andrew Bailey
+Keywords: Dive and Green, PADI
+Summary:
+Date:2014
+Language:es
+Copyright:2014 Dive and Green
+-->
+
+Tenemos una gama de servicios entre:
+
+* [Fun Dive](/es/servicios/fun-dive.html)
+* [Night Dive](/es/servicios/night-dive.html)
+* [Planes](/es/servicios/planes.html)
+* [Snorkelling](/es/servicios/snorkelling.html)
+* [Otros Servicios](/es/servicios/otros-servicios.html)

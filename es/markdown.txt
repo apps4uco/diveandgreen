@@ -1,0 +1,84 @@
+<!--
+Title: El título de la página, aparece en resultados de búsqueda y en la barra del título del navegador.
+Subtitle:
+Author: El nombre del autor
+Keywords: Las palabras claves separadas por comma
+Summary:El texto de resumen que quieres salir en los resultados de búsqueda de
+google etc.
+Date:2014
+Language:es
+Copyright:2014 Dive and Green
+-->
+
+El sintaxis de Markdown
+
+*cursiva*
+
+**negrilla**
+
+
+[Texto del hipervinculo completo](http://www.sitioweb.com/pagina.html)
+
+[Texto del hipervinculo primer nivel](/toplevel.html)
+
+[Texto del hipervinculo relativa - mismo nivel](relativa.html)
+
+[Texto del hipervinculo relativa - nivel arriba](../relativa.html)
+
+![Texto de una foto/imagén](http://www.sitioweb.com/photo.html)
+
+![Una foto](/images/fot010.jpg class:right)
+
+Un link a wikipedia [[Wikipedia]]
+
+Un email: Envienos un email a info@diveandgreen.com
+
+Una lista no numerada
+
+* Uno
+* Dos
+* Tres
+
+Una lista numerada
+
+1. Uno
+1. Dos
+1. Tres
+
+Listas multinivel
+
+* Uno
+	* Uno
+	* Dos
+	* Tres
+* Dos
+	* Uno
+	* Dos
+	* Tres
+* Tres
+	* Uno
+	* Dos
+	* Tres
+
+
+# Titulo Uno
+
+Paragrafo 1
+
+Paragrafo 2
+
+## Titulo Dos
+
+Etc
+
+### Titulo Tres
+
+Etc
+
+
+Una Tabla 
+
+Col 1 | Col 2 | Col3
+------|-------|-----
+Fila1 |Fila 2 | Fila 3
+Fila1 |Fila 2 | Fila 3

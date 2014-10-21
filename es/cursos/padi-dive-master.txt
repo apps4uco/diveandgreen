@@ -1,0 +1,14 @@
+<!--
+Title: Dive Master
+Subtitle:
+Author: Andrew Bailey
+Keywords: Buceo, Dive and Green, PADI
+Summary:Somos un centro de buceo con amplia experiencia y certificación PADI, donde personas interesadas en disfrutar del mar, desde curiosos hasta buzos expertos, encuentran capacitación, orientación y asesoría, con estricto respeto a las más exigentes normas de seguridad
+Date:2014
+Language:es
+Copyright:2014 Dive and Green
+-->
+
+¡Ya tiene la experiencia y el conocimiento necesario para convertirse en líder de buceo! Este curso esta diseñado para que, luego de una estricta preparación, comience a ganar dinero buceando. Tiempo aproximado 15 días, edad mínima 18 años.
+
+![Dive Master](/images/dive19.jpg title="Ext Title" class="right")

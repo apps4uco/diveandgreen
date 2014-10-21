@@ -1,0 +1,17 @@
+<!--
+Title: Especialidades
+Subtitle:
+Author: Andrew Bailey
+Keywords: Buceo, Dive and Green, PADI
+Summary:Somos un centro de buceo con amplia experiencia y certificación PADI, donde personas interesadas en disfrutar del mar, desde curiosos hasta buzos expertos, encuentran capacitación, orientación y asesoría, con estricto respeto a las más exigentes normas de seguridad
+Date:2014
+Language:es
+Copyright:2014 Dive and Green
+-->
+
+Si está interesado en cursos de especialidades como: buceo de navegación , buceo nocturno, fotografía subacuática, proyecto A.W.A.R.E, identificación de peces, dominio de flotabilidad , búsqueda y recuperación y mas, estos cursos le darán la posibilidad de satisfacer inquietudes.
+El buceo nocturno del caribe es una experiencia inolvidable, y la identificación de peces y corales no tienen mejor lugar que en las clara aguas que bordean nuestras costas, explore sus expectativas en buceo, seguro encontrara una especialidad que le llamara la atención. Pongase en contacto con nosotros.
+
+![Specialty](/images/dive19.jpg)
+
+

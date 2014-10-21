@@ -1,0 +1,14 @@
+<!--
+Title: Scuba Diver
+Subtitle:
+Author: Andrew Bailey
+Keywords: Diving, Dive and Green, PADI
+Summary:
+Date:2014
+Language:es
+Copyright:2014 Dive and Green
+-->
+
+This is an intermediate course in which only completing a portion of the PADI Open Water Diver may obtain this certification, this certification has a couple of restrictions: always have to dive with a professional PADI dives and shall not exceed 12 feet deep . The value per participant is $ 670,000 COP
+
+![Scuba Diver](/images/dive30.jpg)

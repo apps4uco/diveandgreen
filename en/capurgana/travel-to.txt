@@ -1,0 +1,12 @@
+<!--
+Title: Travel to Capurganá
+Subtitle:
+Author: Andrew Bailey
+Keywords: Buceo, Dive and Green, PADI
+Summary:
+Date:2014
+Language:en
+Copyright:2014 Dive and Green
+-->
+
+![Routes to Capurgana](/images/routes.png)

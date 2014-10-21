@@ -1,0 +1,14 @@
+<!--
+Title: Salida Nocturna
+Subtitle:
+Author: Andrew Bailey
+Keywords: Buceo, Dive and Green, PADI
+Summary:Somos un centro de buceo con amplia experiencia y certificación PADI, donde personas interesadas en disfrutar del mar, desde curiosos hasta buzos expertos, encuentran capacitación, orientación y asesoría, con estricto respeto a las más exigentes normas de seguridad
+Date:2014
+Language:es
+Copyright:2014 Dive and Green
+-->
+
+Se hace con mínimo tres buzos. Incluye: alquiler del equipo scuba con un tanque, lancha, guía y refrigerio. Valor $110.000
+No incluye: linterna 
+

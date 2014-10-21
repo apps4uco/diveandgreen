@@ -1,0 +1,19 @@
+<!--
+Title: Dive & Green
+Subtitle:
+Author: Andrew Bailey
+Keywords: Buceo, Dive and Green, PADI
+Summary:Somos un centro de buceo con amplia experiencia y certificación PADI, donde personas interesadas en disfrutar del mar, desde curiosos hasta buzos expertos, encuentran capacitación, orientación y asesoría, con estricto respeto a las más exigentes normas de seguridad
+Date:2014
+Language:es
+Copyright:2014 Dive and Green
+-->
+
+# Dive…
+
+Somos el único Dive center Resort PADI en la zona y contamos con experiencia de mas de 15 años en el área, nos caracterizamos por dar servicios de buceo en donde nuestra mayor interés es la seguridad, comodidad  y  diversión; por eso cuando elige tomar un curso de buceo, hacer un fun dive o cualquiera de nuestros programas,  puede estar seguro de que encontrara  personal capacitado y entusiasta, instalaciones de calidad,  un bote especial para buceo, equipos de comunicación, equipos de primeros auxilios de buceo y el respaldo  de la organización mas grande de buceo en el mundo, PADI, atravez de nuestros programas PADI encontraras respaldo y reconocimiento a nivel internacional, la confianza que brinda PADI es que podrá aprender a bucear divirtiendoce en forma segura, esta comprobado que el sistema de enseñanza PADI garantiza que se cumplan los mas altos estándares de calidad, nuestro personal esta preparado para atender a los  buzos en varios idiomas. 
+
+# Green…
+
+Somos un centro de buceo comprometido con el medio ambiente, apoyamos y participamos  permanentemente en actividades relacionadas con el cuidado respeto y manejo de la naturaleza, así lo demuestra la certificación que tenemos como centro Resort PADI  100% A.W.A.R.E, por cada certificación de buceo que hacemos, donamos un porcentaje que va dirigido a la fundación sin animo de lucro PROJECT A.W.A.R.E que se encarga de la protección a nivel mundial  del medio ambiente marino, y la protección de las especies en vía de extinción. Con nosotros su certificación tendrá un diseño especial que muestra el compromiso con la naturaleza y en especial con el cuidado de los mares, nuestras instalaciones y nuestros objetivos son ser cada día mas  amigables con el medio ambiente.   
+

@@ -1,0 +1,16 @@
+<!--
+Title: Otros Servicios
+Subtitle:
+Author: Andrew Bailey
+Keywords: Buceo, Dive and Green, PADI
+Summary:Somos un centro de buceo con amplia experiencia y certificación PADI, donde personas interesadas en disfrutar del mar, desde curiosos hasta buzos expertos, encuentran capacitación, orientación y asesoría, con estricto respeto a las más exigentes normas de seguridad
+Date:2014
+Language:es
+Copyright:2014 Dive and Green
+-->
+
+Servicio de videos con cámara profesional subacuática: para trabajos profesionales se debe hacer la reserva con un mes de anticipación.
+Llenado de tanques*: deben tener la prueba hidrostática vigente y no tener ninguna abolladura.
+Venta de equipos y repuestos por catálogo: manejamos marcas como Mares, Scubamax, Tilos, Body Glove y Tusa. La entrega del pedido se demora 5 días.
+
+*Nos reservamos el derecho de alquiler de equipo y llenado de tanques.

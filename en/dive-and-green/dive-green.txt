@@ -1,0 +1,19 @@
+<!--
+Title: Dive & Green
+Subtitle:
+Author: Andrew Bailey
+Keywords: Dive and Green, PADI
+Summary:
+Date:2014
+Language:en
+Copyright:2014 Dive and Green
+-->
+
+# Dive ...
+
+We are the only PADI Resort Dive Center in the region and have over 15 years experience in the area, we are known for providing diving services where our biggest concern is the safety, comfort and fun; so when you choose to take a diving course, make a fun dive or any of our programs, you can be sure to find trained and enthusiastic staff, quality facilities, a custom built boat for divers, communication equipment, first aid kits and the support of the largest diving organization in the world, PADI, through our PADI programs we provide support and international recognition, PADI makes sure is that you can learn to dive safely and have fun, the PADI educational system ensures that the highest quality standards are met, also our staff is ready to assist divers in multiple languages.
+
+# Green ...
+
+We are a dive center committed to the environment, we support and continuously participate in activities related to the care and respect nature management activities, as evidenced by the certification that we are a PADI 100% AWARE Dive Resort, for each dive certification, we donate a percentage to the non-profit foundation PROJECT AWARE which is responsible for the worldwide protection of the marine environment, and the protection of species in danger of extinction. With us, your certification will have a special design that shows the commitment to nature and especially the care of the seas, our facilities and our goals are to be each day more friendly to the environment.
+

@@ -1,0 +1,22 @@
+<!--
+Title: PADI Diving Courses
+Subtitle:
+Author: Andrew Bailey
+Keywords: Diving, Dive and Green, PADI
+Summary:
+Date:2014
+Language:en
+Copyright:2014 Dive and Green
+-->
+
+* Diving Experiences
+	* [Discover Scuba Diving](/en/courses/discover-scuba-diving.html)
+* Basic Diving Courses
+	* [Open Water Diver](/en/courses/padi-open-water-diver.html)
+	* [Scuba Review](/en/courses/padi-scuba-review.html)
+	* [Scuba Diver](/en/courses/padi-scuba-diver.html)
+* Advanced Diving Courses
+	* [Advanced Open Water Diver](/en/courses/padi-advanced-open-water-diver.html)
+	* [Rescue Diver](/en/courses/padi-rescue-diver.html)
+	* [Dive Master](/en/courses/padi-dive-master.html)
+	* [Specialty Courses](/en/courses/padi-specialty.html)

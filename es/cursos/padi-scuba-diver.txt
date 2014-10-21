@@ -1,0 +1,14 @@
+<!--
+Title: Scuba Diver
+Subtitle:
+Author: Andrew Bailey
+Keywords: Buceo, Dive and Green, PADI
+Summary:Somos un centro de buceo con amplia experiencia y certificación PADI, donde personas interesadas en disfrutar del mar, desde curiosos hasta buzos expertos, encuentran capacitación, orientación y asesoría, con estricto respeto a las más exigentes normas de seguridad
+Date:2014
+Language:es
+Copyright:2014 Dive and Green
+-->
+
+Este es un  curso intermedio  en el que solo   completando una parte del PADI  Open Water Diver podrá obtener esta certificación, esta certificación  tiene un par de restricciones : siempre tendrá que bucear acompañado de un profesional  PADI  y sus buceos no deberán superar los 12 metros de profundidad. El valor por participante es de COP $670.000
+
+![Scuba Diver](/images/dive30.jpg)

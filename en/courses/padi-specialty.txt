@@ -1,0 +1,15 @@
+<!--
+Title: Specialty Courses
+Subtitle:
+Author: Andrew Bailey
+Keywords: Scuba Diving, Dive and Green, PADI
+Summary:
+Date:2014
+Language:en
+Copyright:2014 Dive and Green
+-->
+
+If you are interested in specialty courses such as diving navigation, night diving, underwater photography, Project AWARE, fish identification, control of buoyancy, search and recovery and more, these courses will give you the possibility to satisfy concerns.
+Night diving in the Caribbean is an unforgettable experience, and the identification of fish and corals have no better place than in the clear waters around our shores, explore their expectations diving, sure to find a specialty that will attract attention. Please contact us.
+
+![Specialty](/images/dive19.jpg)

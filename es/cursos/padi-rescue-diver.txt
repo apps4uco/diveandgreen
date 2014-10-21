@@ -1,0 +1,15 @@
+<!--
+Title: Rescue Diver
+Subtitle:
+Author: Andrew Bailey
+Keywords: Buceo, Dive and Green, PADI
+Summary:Somos un centro de buceo con amplia experiencia y certificación PADI, donde personas interesadas en disfrutar del mar, desde curiosos hasta buzos expertos, encuentran capacitación, orientación y asesoría, con estricto respeto a las más exigentes normas de seguridad
+Date:2014
+Language:es
+Copyright:2014 Dive and Green
+-->
+
+Este nivel esta dirigido a buzos que quieren, no sólo pensar en su seguridad, sino también en la de los demás. Su objetivo es desarrollar conocimientos en prevención de accidentes y técnicas que involucran auto-rescate y rescates. Tiempo aproximado 4 días, edad mínima 12 años, pre requisito ser buzo E.F.R. Valor por participante COP $700.000.
+
+![Rescue Diver](/images/dive35.jpg)
+

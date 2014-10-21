@@ -1,0 +1,14 @@
+<!--
+Title: Night Dive
+Subtitle:
+Author: Andrew Bailey
+Keywords: Buceo, Dive and Green, PADI
+Summary:
+Date:2014
+Language:en
+Copyright:2014 Dive and Green
+-->
+
+It is made with at least three divers. Includes equipment rental with scuba tank, boat, guide and refreshments. Value $ 110,000
+Not included: flashlight
+

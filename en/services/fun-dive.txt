@@ -1,0 +1,12 @@
+<!--
+Title: Fun Dive
+Subtitle:
+Author: Andrew Bailey
+Keywords: Dive and Green, PADI
+Summary:
+Date:2014
+Language:en
+Copyright:2014 Dive and Green
+-->
+
+We departures daily. The schedule is organized yesterday. This output includes: rental of scuba equipment with a tank, boat, guide and refreshments. Value $ 190,000.
